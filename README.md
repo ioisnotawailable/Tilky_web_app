@@ -1,2 +1,5 @@
-# Tilky_web_app
-tilky web app
+HABERLER WEB UYGULAMASI
+=======================
+
+
+* Kişisel kullanımım için yapmış olduğum haberler uygulamasıdır.
